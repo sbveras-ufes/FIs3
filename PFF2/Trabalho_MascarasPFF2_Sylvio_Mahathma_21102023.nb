@@ -1,0 +1,68 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2404,         60]
+NotebookOptionsPosition[      2045,         46]
+NotebookOutlinePosition[      2452,         62]
+CellTagsIndexPosition[      2409,         59]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+A f\[IAcute]sica por tr\[AAcute]s do filtro eletrost\[AAcute]tico presente em \
+m\[AAcute]scaras PFF2/N95 consiste no uso de atra\[CCedilla]\[ATilde]o \
+eletrost\[AAcute]tica para capturar part\[IAcute]culas microsc\[OAcute]picas \
+do ar.
+Os filtros dessas m\[AAcute]scaras s\[ATilde]o fabricados com tecidos sint\
+\[EAcute]ticos como o polipropileno e o  poliestireno, que tem como caracter\
+\[IAcute]stica a alta densidade de carga eletrost\[AAcute]tica, geralmente \
+positiva.\[LineSeparator]Quando part\[IAcute]culas suspensas no ar passam \
+pelo filtro confeccionado com esses materiais, s\[ATilde]o atra\[IAcute]das \
+pelo campo el\[EAcute]trico gerado pela carga el\[EAcute]trica presente nas \
+fibras do filtro. Uma vez capturadas, as part\[IAcute]culas s\[ATilde]o \
+mantidas no interior do filtro por meio das for\[CCedilla]as de van der Waals.
+Esses mecanismo garante a reten\[CCedilla]\[ATilde]o de pelo menos 95% das \
+part\[IAcute]culas com di\[AHat]metro de 0,3 micr\[OHat]metros ou menores.
+\
+\>", "Text",
+ CellChangeTimes->{
+  3.906761434951208*^9, {3.9069307469684634`*^9, 3.906930786873697*^9}, {
+   3.9069309263778553`*^9, 3.906930933408923*^9}, {3.906931086965477*^9, 
+   3.90693114467743*^9}, {3.906931201411456*^9, 3.9069312237388926`*^9}, {
+   3.9069314444557056`*^9, 3.906931596860143*^9}, {3.90693162947358*^9, 
+   3.9069316339356785`*^9}, {3.906931674300952*^9, 
+   3.906931873618149*^9}},ExpressionUUID->"754e80ed-fcad-4bee-bde5-\
+7b53c907e6ce"]
+},
+WindowSize->{571.8, 479.4},
+WindowMargins->{{284.4, Automatic}, {Automatic, 47.4}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"ca03e862-cdc6-43be-b3b9-e4cbbff90b6c"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 1483, 24, 311, "Text",ExpressionUUID->"754e80ed-fcad-4bee-bde5-7b53c907e6ce"]
+}
+]
+*)
+
